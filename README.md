@@ -1,1 +1,2 @@
-demo user profile
+- [Random password generator](https://divatgithub.github.io/PasswordGenerator/)
+- [A Blog Card with CSS](https://divatgithub.github.io/Minimal_Blog_Card/) 
